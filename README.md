@@ -8,4 +8,4 @@ Ejercicios de git
 
 ![](./src/Captura.PNG)
 ![](./src/Captura2.PNG)
-![](./src/descarga.PNG)
+![](./src/descarga.png)
